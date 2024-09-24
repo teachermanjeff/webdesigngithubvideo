@@ -1,0 +1,53 @@
+p {
+    color:brown;
+    background-color:blueviolet;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    float:left;
+}
+
+#title {
+    background-color: aquamarine;
+}
+
+#content{
+    background-color: chartreuse;
+    width:60%;
+    position:absolute;
+    left:20%;
+
+
+}
+
+#menu {
+    background-color: rgb(0, 255, 68);
+    width: 20%;
+    height: 400px;
+    position:absolute;
+    left:80%;
+
+}
+
+#ads{
+
+    background-color: brown;
+    width: 20%;
+    height: 400px;
+    position:absolute;
+    left:0px;
+   
+
+}
+
+.good{
+    color:white;
+    font-size: 150%;
+}
+
+.bad{
+    color: crimson;
+    font-size: 80%;
+}
