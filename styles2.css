@@ -14,7 +14,7 @@ img {
 }
 
 #content{
-    background-color: chartreuse;
+    background-color: rgb(255, 0, 0);
     width:60%;
     position:absolute;
     left:20%;
@@ -48,6 +48,6 @@ img {
 }
 
 .bad{
-    color: crimson;
+    color: rgb(16, 92, 154);
     font-size: 80%;
 }
